@@ -24,9 +24,9 @@
     <h2>Biography</h2>
     <li>
         <ol>
-            Mahendra Singh Dhoni, commonly known as MS Dhoni and Mahi, is an Indian cricketer player and was a former captain of the Indian cricket team. Dhoni is a right-handed batsman.
+            *Mahendra Singh Dhoni, commonly known as MS Dhoni and Mahi, is an Indian cricketer player and was a former captain of the Indian cricket team. Dhoni is a right-handed batsman.
             ll Indian captains to date.
-             He took over the ODI captaincy from Rahul Dravid in 2007 and led the team to its first ever inter-country ODI series wins in Sri Lanka and New Zealand. Dhoni also holds the post of Vice-President of India Cements Ltd. after resigning from Air India. India Cements is the owner of the Indian Premier League team Chennai Super Kings, and Dhoni has been its captain since the first edition of IPL.
+             *He took over the ODI captaincy from Rahul Dravid in 2007 and led the team to its first ever inter-country ODI series wins in Sri Lanka and New Zealand. Dhoni also holds the post of Vice-President of India Cements Ltd. after resigning from Air India. India Cements is the owner of the Indian Premier League team Chennai Super Kings, and Dhoni has been its captain since the first edition of IPL.
             MS Dhoni was a right-handed batsman and also played the role of a wicket-keeper. 
             He mostly played shots in the goo foot, that is, shifting his body weight on the right leg. He has his own famous cricket shot, called the "Helicopter shot".
             The President, Shri Ram Nath Kovind presenting the Padma Bhushan Award to Shri M.S. Dhoni on Monday, 2 April 2018
